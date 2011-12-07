@@ -23,6 +23,7 @@
         <activity android:name=".SearchResultsActivity"></activity>
         <activity android:name=".PostsActivity"></activity>
         <activity android:name=".ViewImageActivity"></activity>
+        <activity android:name=".SearchActivity"></activity>
     </application>
 
 </manifest>

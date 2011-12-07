@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, RedditActivity!</string>
     <string name="app_name">Reddit</string>
+    <string name="search">Search</string>
 
 </resources>

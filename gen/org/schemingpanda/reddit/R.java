@@ -15,17 +15,21 @@ public final class R {
     }
     public static final class id {
         public static final int postsListView=0x7f050000;
-        public static final int searchResultsListView=0x7f050001;
-        public static final int viewImage=0x7f050002;
+        public static final int searchBtn=0x7f050002;
+        public static final int searchResultsListView=0x7f050003;
+        public static final int searchTextBox=0x7f050001;
+        public static final int viewImage=0x7f050004;
     }
     public static final class layout {
         public static final int main=0x7f030000;
         public static final int posts=0x7f030001;
-        public static final int search_results=0x7f030002;
-        public static final int view_image=0x7f030003;
+        public static final int search=0x7f030002;
+        public static final int search_results=0x7f030003;
+        public static final int view_image=0x7f030004;
     }
     public static final class string {
         public static final int app_name=0x7f040001;
         public static final int hello=0x7f040000;
+        public static final int search=0x7f040002;
     }
 }
