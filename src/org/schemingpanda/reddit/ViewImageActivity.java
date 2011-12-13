@@ -25,6 +25,10 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.widget.ImageView;
 
+/**
+ * An {@link Activity} for viewing images associated with a post
+ *
+ */
 public class ViewImageActivity extends Activity {
 
 	@Override
