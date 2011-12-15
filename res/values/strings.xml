@@ -3,5 +3,11 @@
 
     <string name="hello">Hello World, RedditActivity!</string>
     <string name="app_name">Reddit</string>
+    <string name="search">Search</string>
+    <string name="loginButton">Login</string>
+    <string name="usernameHint">username</string>
+    <string name="passwordHint">password</string>
+    <string name="logout">Logout</string>
+    <string name="server_error_message">Reddit is being weird. Try again later.</string>
 
 </resources>
