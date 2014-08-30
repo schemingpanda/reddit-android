@@ -16,12 +16,10 @@
 package org.schemingpanda.reddit;
 
 import java.io.InputStream;
-import java.net.URI;
 import java.net.URL;
 
 import android.app.Activity;
 import android.graphics.drawable.Drawable;
-import android.net.Uri;
 import android.os.Bundle;
 import android.widget.ImageView;
 
@@ -29,7 +27,7 @@ import android.widget.ImageView;
  * An {@link Activity} for viewing images associated with a post
  *
  */
-public class ViewImageActivity extends Activity {
+public class ViewImageActivity extends ActivityWithOptionsMenu {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
